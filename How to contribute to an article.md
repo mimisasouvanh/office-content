@@ -27,7 +27,8 @@ Here are the steps you need to do contribute using Git. You'll need to use this 
 
 ## What we do with your contributions
 
-### Documentation contributions
+### Text contributions
+
 Once you have submitted your changes, our team will be notified immediately and respond to your changes. You will receive notifications about your change request, or someone from our team may contact you for more information. If your pull request was approved, we will update the documentation on GitHub and on MSDN.
 
 ### Code contributions
