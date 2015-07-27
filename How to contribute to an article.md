@@ -47,6 +47,6 @@ Currently, we are not allowing external contributors to approve pull requests in
 
 ### How soon will I get a response about my change request?
 
-
+## More resources
 
 
