@@ -4,7 +4,7 @@ Thank you for making our documentation better!
 
 ## Contribute using the GitHub UI
 
-Here, you'll find out how to contribute to Excel VBA documentation without having to clone the repo on your desktop. This is the quickest and easiest way to create a pull request in this repository. Use this method if you would like to make a minor change that doesn't involve code changes. For instructions on how to contribute by cloning the repo, see [Contribute using Git](#contribute-using-git).
+Here, you'll find out how to contribute to VBA documentation without having to clone the repo on your desktop. This is the quickest and easiest way to create a pull request in this repository. Use this method if you would like to make a minor change that doesn't involve code changes. For instructions on how to contribute by cloning the repo, see [Contribute using Git](#contribute-using-git).
 
 1. Find the article to which you want to contribute to on GitHub. If the article is in MSDN, simply click the link to **Contribute to this article on GitHub**. You will be taken to the article on http://github.com.
 2. Once you are on article in GitHub, click on the link to edit the topic. 
