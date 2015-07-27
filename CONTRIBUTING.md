@@ -23,7 +23,7 @@ You can contribute to [Office developer documentation](http://msdn.microsoft.com
 ###Minor corrections
 
 Minor corrections or clarifications you submit for documentation and code examples in this repository do not require a Contribution License Agreement (CLA). Submissions are taken in the form of pull requests. We will do our best to review pull requests within ten business days.
-
+<--testing-->
 
 ###Larger submissions
 
