@@ -9,7 +9,7 @@ Here, you'll find out how to contribute to Excel VBA documentation without havin
 1. Find the article to which you want to contribute to on GitHub. If the article is in MSDN, simply click the link to **Contribute to this article on GitHub**. You will be taken to the article on http://github.com.
 2. Once you are on the article in GitHub, click on the link to edit the topic. You will then be asked to sign in to GitHub.
 3. Make your changes, and then scroll to the bottom and enter a description.
-4. Click **Commit Changes**.
+4. Click **Propose file change**, and then click **Create pull request**.
 
 You have just submitted a pull request to have this topic changed. 
 
