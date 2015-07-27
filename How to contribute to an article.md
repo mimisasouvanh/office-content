@@ -16,6 +16,7 @@ You have just submitted a pull request to have this topic changed.
 ## Contribute using Git
 
 Here are the steps you need to do contribute using Git. You'll need to use this method if you are:
+
 * Contributing code
 * Making changes that affect meaning
 * Making large amounts of changes to text
