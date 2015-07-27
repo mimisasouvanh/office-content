@@ -23,19 +23,14 @@ Here are the steps you need to do contribute using Git. You'll need to use this 
 
 1. Sign the Contributor's License Agreement.
 2. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
-2. 
+3. Once you have created an account on GitHub, see [Contribute to Office developer documentation](https://github.com/OfficeDev/office-content/contribute.md)
 
-## What we do with your contributions
-
-### Text contributions
-
-Once you have submitted your changes, our team will be notified immediately and respond to your changes. You will receive notifications about your change request, or someone from our team may contact you for more information. If your pull request was approved, we will update the documentation on GitHub and on MSDN.
-
-### Code contributions
-
-How is code verified?
 
 ## FAQ
+
+### What we do with your contributions
+
+Once you have submitted your changes, our team will be notified immediately and respond to your changes. You will receive notifications about your change request, or someone from our team may contact you for more information. If your pull request was approved, we will update the documentation on GitHub and on MSDN.
 
 ### Who approves pull requests?
 
@@ -46,6 +41,8 @@ The Office developer documentation team approves pull requests. To contact us di
 Currently, we are not allowing external contributors to approve pull requests in this repository.
 
 ### How soon will I get a response about my change request?
+
+### How is code verified?
 
 ## More resources
 
