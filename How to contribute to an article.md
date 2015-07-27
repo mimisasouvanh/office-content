@@ -15,9 +15,13 @@ You have just submitted a pull request to have this topic changed.
 
 ## Contribute using Git
 
-Here are the steps you need to do contribute using Git.
+Here are the steps you need to do contribute using Git. You'll need to use this method if you are:
+* Contributing code
+* Making changes that affect meaning
+* Making large amounts of changes to text
 
-1. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
+1. Sign the Contributor's License Agreement.
+2. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
 2. 
 
 ## What we do with your contributions
