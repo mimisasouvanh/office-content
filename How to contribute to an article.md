@@ -1,9 +1,12 @@
 # How to contribute to an article
 
-Thank you for contributing to the VBA community!
+Thank you for contributing to the VBA community! You can:
 
-* [Contribute using GitHub](#contribute-using-github) - Make small changes to the article.
-* [Contribute using Git](#contribute-using-git) - Make large changes, or changes that involve code.
+* [Contribute using GitHub](#contribute-using-github) to make small changes to the article.
+* [Contribute using Git](#contribute-using-git) to make large changes, or changes that involve code.
+* Learn about [style and voice](#voice-and-style).
+* Read about [this repository](#about-this-repository).
+* [FAQ](#faq)
 
 ## Contribute using GitHub
 
@@ -19,7 +22,7 @@ You have just submitted a pull request to have this topic changed.
 
 ## Contribute using Git
 
-Here are the steps you need to do contribute using Git. You'll need to use this method if you are:
+Here are the steps to contribute using Git. You'll need to use this method if you are:
 
 * Contributing code
 * Making changes that affect meaning
@@ -29,6 +32,11 @@ Here are the steps you need to do contribute using Git. You'll need to use this 
 2. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
 3. Once you have created an account on GitHub, follow the steps in [Use GitHub, Git, and this repository](https://github.com/OfficeDev/office-content/blob/master/CONTRIBUTING.md#use-github-git-and-this-repository) in [Contribute to Office developer documentation](https://github.com/OfficeDev/office-content/contribute.md) to contribute.
 
+## Voice and style
+
+We understand that writing technical documentation can be ... However, writing to the developer community doesn't have to be. Please check out our Voice and style topic for tips on how to write technical articles.
+
+## About this repository
 
 ## FAQ
 
@@ -38,7 +46,7 @@ Once you have submitted your changes, our team will be notified immediately and 
 
 ### Who approves pull requests?
 
-The Office developer documentation team approves pull requests. To contact us directly, email officedev@microsoft.com.
+The Office developer documentation team approves pull requests. To contact us directly, email docthis@microsoft.com.
 
 ### Can I become an approver for this repository's GitHub pull requests?
 
