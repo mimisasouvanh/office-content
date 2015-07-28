@@ -27,7 +27,7 @@ Here are the steps you need to do contribute using Git. You'll need to use this 
 
 1. Sign the Contributor's License Agreement.
 2. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
-3. Once you have created an account on GitHub, see [Use GitHub, Git, and this repository](https://github.com/OfficeDev/office-content/blob/master/CONTRIBUTING.md#use-github-git-and-this-repository) in [Contribute to Office developer documentation](https://github.com/OfficeDev/office-content/contribute.md)
+3. Once you have created an account on GitHub, follow the steps in [Use GitHub, Git, and this repository](https://github.com/OfficeDev/office-content/blob/master/CONTRIBUTING.md#use-github-git-and-this-repository) in [Contribute to Office developer documentation](https://github.com/OfficeDev/office-content/contribute.md) to contribute.
 
 
 ## FAQ
@@ -46,8 +46,17 @@ Currently, we are not allowing external contributors to approve pull requests in
 
 ### How soon will I get a response about my change request?
 
-### How is code verified?
+We try our best to respond as accurately and efficiently as possible. In most cases, we will respond to you within 10 business days.
+
+### How are code contributions verified?
+
 
 ## More resources
+
+* [Excel 2013 developer documentation](https://msdn.microsoft.com/en-us/library/office/fp179694.aspx)
+* [Office Add-ins](https://msdn.microsoft.com/en-us/library/office/jj220060.aspx)
+* [Office developer blog](https://blogs.office.com/dev/)
+* [VBA tools on GitHub](https://github.com/VBA-tools/VBA-Web)
+* [Office development on GitHub](https://github.com/OfficeDev/office-content)
 
 
