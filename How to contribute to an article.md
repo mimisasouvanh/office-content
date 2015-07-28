@@ -2,7 +2,7 @@
 
 Thank you for contributing to the VBA community! You can:
 
-* [Contribute using GitHub](#contribute-using-github) to make small changes to the article.
+* [Contribute using GitHub](#contribute-using-github) to make small changes to the article or articles.
 * [Contribute using Git](#contribute-using-git) to make large changes, or changes that involve code.
 * Learn about [style and voice](#voice-and-style).
 * Read about [this repository](#about-this-repository).
