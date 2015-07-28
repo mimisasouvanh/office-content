@@ -34,7 +34,7 @@ Here are the steps to contribute using Git. You'll need to use this method if yo
 
 ## Voice and style
 
-We understand that writing technical documentation can be ... However, writing to the developer community doesn't have to be. Please check out our Voice and style topic for tips on how to write technical articles.
+Aim for consistency with the current topic and other similar ones when submitting documentation changes to the VBA developer community. Use everyday words and write concisely. Please avoid breaking up steps with commentary or asides and spell check your article. After your pull reqest is accepted minor changes may be submitted to ensure consistency and alignment with terminology conventions.  
 
 ## About this repository
 
