@@ -38,6 +38,8 @@ We understand that writing technical documentation can be ... However, writing t
 
 ## About this repository
 
+The content in the office-content repository is grouped first by article language, product, then by topic. The README.md file at the root of each topic directory specifies the structure of the articles within the topic.
+
 ## FAQ
 
 ### What we do with your contributions
