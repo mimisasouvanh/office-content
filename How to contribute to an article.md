@@ -28,7 +28,7 @@ Here are the steps to contribute using Git. You'll need to use this method if yo
 * Making changes that affect meaning
 * Making large amounts of changes to text
 
-1. Sign the Contributor's License Agreement.
+1. You will be asked to sign the Contributor's License Agreement.
 2. If you haven't already done so, create an account on http://github.com and follow the steps to set up Git here: https://help.github.com/articles/set-up-git/.
 3. Once you have created an account on GitHub, follow the steps in [Use GitHub, Git, and this repository](https://github.com/OfficeDev/office-content/blob/master/CONTRIBUTING.md#use-github-git-and-this-repository) in [Contribute to Office developer documentation](https://github.com/OfficeDev/office-content/contribute.md) to contribute.
 
@@ -60,6 +60,7 @@ We try our best to respond as accurately and efficiently as possible. In most ca
 
 ### How are code contributions verified?
 
+We verify code using VB Editor.
 
 ## More resources
 
